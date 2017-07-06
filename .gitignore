@@ -1,0 +1,5 @@
+*.o
+si
+Documentation
+drivers
+*.xml
